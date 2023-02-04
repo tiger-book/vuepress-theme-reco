@@ -1,7 +1,7 @@
 module.exports = {
   title: 't',
   description: '',
-  dest: 'public',
+  dest: '.vuepress/dist',
   head: [
     [
       'link',
