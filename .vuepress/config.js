@@ -1,6 +1,7 @@
 module.exports = {
   title: 't',
   description: '',
+  base: '/vuepress-theme-reco/',
   dest: '.vuepress/dist',
   head: [
     [
